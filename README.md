@@ -1,4 +1,4 @@
-# MSc-pipeline Documentation
+# iCLIP-seq_pipeline Documentation
 
 ## Project Overview
 This project implements a bioinformatics pipeline designed for processing RNA sequencing data. The pipeline includes steps for trimming raw sequencing data, generating STAR indices, mapping reads, deduplicating BAM files, and performing analyses with PURECLIP and other bioinformatics tools.
