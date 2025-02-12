@@ -1,0 +1,4 @@
+chr1	1500	1550	overlap1	500	+
+chr1	2500	2550	overlap2	800	-
+chr2	3500	3550	overlap3	600	+
+chr2	4500	4550	overlap4	700	-

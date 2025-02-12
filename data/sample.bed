@@ -1,0 +1,6 @@
+# Contents of /MSc-pipeline/MSc-pipeline/data/sample.bed
+
+chr1    1000    5000    peak1   0   +
+chr1    6000    9000    peak2   0   -
+chr2    1000    3000    peak3   0   +
+chr2    4000    7000    peak4   0   -
